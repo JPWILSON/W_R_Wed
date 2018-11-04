@@ -122,5 +122,6 @@ body {
 }
 
 .panel.open{
-    font-size: 40px;
+    font-size: 25px;
+    flex: 5;
 }
